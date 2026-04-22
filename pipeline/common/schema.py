@@ -15,6 +15,7 @@ ROW_FIELDS = [
     "PersonSpeaking",
     "intervention_type",
     "Intervention",
+    "upstream_license",
 ]
 
 
